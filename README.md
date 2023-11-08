@@ -4,15 +4,20 @@ Ejercicios de python para practicar junto a mis amigos
 ## Instrucciones
 1. Clonar el repositorio: 
 > git clone https://github.com/JereMedr/ejercicios_python.git
-2. Crear una rama con uno de los siguientes temas y tu nombre 
+2. Crear una rama con uno de los siguientes temas y tu nombre. 
 > ej: `git checkout tema_x_nombre` ej: `variables_jere`
-3. Resolver el ejercicio 
-4. Subir los cambios a la rama
+3. Resolver el ejercicio.
+4. Subir los cambios a la rama.
 > `git add . `
 > `git commit -m "ejercicio resuelto"`
 > `git push origin tema_x_nombre`
-5. Volver a la rama main
+5. Volver a la rama main.
 > `git checkout main`
+6. actualizar la rama main.
+> `git pull origin main`
+7. Si hay nuevos ejercicios repetir desde el paso 2.
+
+
 ## Aclaraciones
 - Los ejercicios se encuentran en la carpeta `src`
 - Los ejercicios seran en archivos.py o en directorios con archivos.py
