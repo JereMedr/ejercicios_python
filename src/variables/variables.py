@@ -3,6 +3,6 @@
 
 #ejemplo
 #string
-name = "Juan"
+name = "Trueno"
 print(name)
 print(type(name))
