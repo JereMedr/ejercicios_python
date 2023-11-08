@@ -27,21 +27,26 @@ a = 2
 b = 8
 resultado = a * b
 print(resultado)
+
 # Ejercicio 4
 print ("Ejercicio 4")
 a = 9
 b = 3
 resultado = a / b
 print(resultado) 
+
 # Ejercicio 5
 print ("Ejercicio 5")
 a = 7
 b = 2
 resultado = a ** b
 print(resultado) 
+
 # Ejercicio 6
 print ("Ejercicio 6")
 numero1 = 10
 numero2 = 3 
 resultado = numero1 % numero2
 print("El resto de la división de", numero1, "entre", numero2, "es:", resultado)
+
+# El ejercicio 6 fue echo con ayuda de chatgpt 
