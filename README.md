@@ -17,6 +17,7 @@ Ejercicios de python para practicar junto a mis amigos
 ## Temas
 - [x] Variables
 - [x] Operadores
+- [x] Cadenas
 - [x] Condicionales
 - [x] Ciclos
 - [x] Funciones
