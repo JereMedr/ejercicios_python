@@ -8,10 +8,18 @@ Ejercicios de python para practicar junto a mis amigos
 > ej: `git checkout -b tema_x_nombre` ej: `variables_jere`
 3. Resolver el ejercicio.
 4. Subir los cambios a la rama.
->`git status` (para ver los cambios en la consola)
-> `git add . `(para agregar los cambios al commit)
+Para ver los cambios en la consola
+>`git status` 
+
+Para agregar los cambios al commit
+> `git add . `
+
+Para hacer el commit
 > `git commit -m "ejercicio resuelto"` 
-> `git push origin tema_x_nombre`( para subir los cambios a la rama)
+
+Para subir los cambios a la rama
+> `git push origin tema_x_nombre`
+
 5. Volver a la rama main.
 > `git checkout main`
 6. actualizar la rama main.
