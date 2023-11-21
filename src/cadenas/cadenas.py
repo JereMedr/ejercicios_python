@@ -14,3 +14,7 @@
 # 13) mostrar la cadena en orden inverso pero solo los 3 ultimos y los 3 primeros caracteres pero en mayusculas
 # 14) concatenar la cadena con la cadena " es un lenguaje de programacion"
 # 15) concatenar la cadena con la cadena " es un lenguaje de programacion" y mostrar la longitud de la cadena resultante
+
+#ej ejercicio1 
+lenguaje = "Python"
+print(lenguaje.upper())
