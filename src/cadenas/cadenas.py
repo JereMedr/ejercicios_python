@@ -16,5 +16,5 @@
 # 15) concatenar la cadena con la cadena " es un lenguaje de programacion" y mostrar la longitud de la cadena resultante
 
 #ej ejercicio1 
-lenguaje = "Python"
+lenguaje = "boca"
 print(lenguaje.upper())
