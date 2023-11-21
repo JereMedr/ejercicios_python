@@ -3,6 +3,25 @@
 
 #ejemplo
 #string
-name = "Juan"
+name = "ariel"
 print(name)
 print(type(name))
+
+entero = 35
+print(entero)
+print(type(entero))
+
+kilogramos = 35.5
+print(kilogramos)
+print(type(kilogramos))
+
+es_argentino = True
+print(es_argentino)
+print(type(es_argentino))
+
+lis_animales = ["perro", "gato", "conejo"]
+print(lis_animales)
+print(type(lis_animales))
+
+
+
