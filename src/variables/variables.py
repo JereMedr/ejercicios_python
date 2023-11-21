@@ -7,7 +7,7 @@ name = "ariel"
 print(name)
 print(type(name))
 
-entero = 35
+entero = 30
 print(entero)
 print(type(entero))
 
