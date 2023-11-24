@@ -50,3 +50,6 @@ resultado = numero1 % numero2
 print("El resto de la división de", numero1, "entre", numero2, "es:", resultado)
 
 # El ejercicio 6 fue echo con ayuda de chatgpt 
+
+#Muchas gracias por terminar el ejercicio, espero que hayas aprendido mucho, nos vemos en el siguiente ejercicio 
+# 10/10 
