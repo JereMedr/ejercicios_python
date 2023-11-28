@@ -17,4 +17,75 @@
 
 #ej ejercicio1 
 lenguaje = "Python"
-print(lenguaje.upper())
+print(lenguaje.upper()) 
+
+#2)
+lenguaje = "Python"
+print(lenguaje.lower())
+
+#3) 
+lenguaje = "Python"
+print(len(lenguaje)) 
+
+#4)
+lenguaje = "Python"
+print(lenguaje[0]) 
+
+#5)
+lenguaje = "Python"
+print(lenguaje[-1]) 
+
+#6)
+lenguaje = "Python"
+print(lenguaje[2])
+
+#7)
+cadena = "Python"
+invertida = cadena[::-1] 
+print(invertida)
+
+#8)     
+cadena = "Python"
+invertida = invertida[1:]
+print(invertida)
+
+#9) 
+cadena = "Python" 
+cadena_inversa_sin_ultima = cadena[::-1][:-1]
+print(cadena_inversa_sin_ultima)
+
+#10)
+cadena = "Python"
+cadena_inversa_sin_primera_y_ultima = cadena[::-1][1:-1]
+print(cadena_inversa_sin_primera_y_ultima)
+
+#11)
+cadena = "Python"
+resultado = cadena[-3:][::-1]
+print(resultado)
+
+#12) 
+cadena = "Python"
+resultado = cadena[:3][::-1]
+print(resultado) 
+
+
+#13)
+cadena = "Python"
+resultado = cadena[:3][::-1].upper() + cadena[-3:][::-1].lower()
+print(resultado)
+
+#14) 
+cadena = "Python"
+extension = " es un lenguaje de programación"
+resultado = cadena + extension
+print(resultado)
+
+#15
+cadena = "Python"
+extension = " es un lenguaje de programación"
+resultado = cadena + extension
+print(len(resultado))
+
+
+
