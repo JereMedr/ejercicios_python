@@ -31,3 +31,6 @@ print(type(fruits))
 coordinates = (40.7128, -74.0060)
 print(coordinates)
 print(type(coordinates))
+
+
+# Faltan los siguientes tipos de datos: dict, set
