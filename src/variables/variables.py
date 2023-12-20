@@ -12,7 +12,7 @@ print(age)
 print(type(age))
 
 #float
-height = 1.70
+height = 1.75
 print(height)
 print(type(height))
 
